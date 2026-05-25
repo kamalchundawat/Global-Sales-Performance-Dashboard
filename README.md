@@ -43,3 +43,7 @@ This project is an interactive Excel dashboard designed to analyze global sales 
 
 ## Conclusion
 This project demonstrates how Excel can be used to build a professional business dashboard for analyzing global sales performance and supporting data-driven decision-making.
+
+## Dashboard Preview
+
+![Dashboard Preview](images/dashboard-preview.png)
